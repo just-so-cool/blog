@@ -1,1 +1,2 @@
-# blog
+# just-so-cool.github.io
+
